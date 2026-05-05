@@ -12,6 +12,7 @@ layout: default
       {% if site.description %}
         <p class="description">{{ site.description | strip_html | normalize_whitespace }}</p>
       {% endif %}
+      {% comment %}
       <div class="social">
         {% if site.twitter_username %}
           <a aria-label="Twitter" href="https://twitter.com/{{ site.twitter_username }}">
@@ -29,6 +30,7 @@ layout: default
           </a>
         {% endif %}
       </div>
+      {% endcomment %}
     </div>
   </div>
 </header>
