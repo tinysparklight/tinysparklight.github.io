@@ -9,6 +9,9 @@ layout: default
       {% if site.title %}
         <h1><em>{{ site.title | escape }}</em></h1>
       {% endif %}
+      {% if site.description %}
+        <p class="description">{{ site.description | strip_html | normalize_whitespace }}</p>
+      {% endif %}
       <div class="social">
         {% if site.twitter_username %}
           <a aria-label="Twitter" href="https://twitter.com/{{ site.twitter_username }}">
