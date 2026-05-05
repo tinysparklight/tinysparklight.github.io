@@ -24,9 +24,10 @@ github_username:  tinysparklight
 
 # Build settings
 markdown: kramdown
-theme: yefeme
+remote_theme: yefim/yefeme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
