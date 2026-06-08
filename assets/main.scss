@@ -10,3 +10,8 @@
   line-height: 1.73;
   margin: 8px 0 0;
 }
+
+ol + p,
+ul + p {
+  margin-top: 28px;
+}
