@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sit with discomfort"
-date: 2026-05-16
+date: 2026-05-14
 categories: acceptance awareness being-in-my-head
 ---
 

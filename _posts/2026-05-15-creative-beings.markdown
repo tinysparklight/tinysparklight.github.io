@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being Creative or Creative Beings"
-date: 2026-05-10
+date: 2026-05-15
 categories: creativity
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Substack goodies"
-date: 2026-05-10
+date: 2026-05-11
 categories: sideProjects acceptance surrender
 ---
 
